@@ -1,0 +1,4 @@
+CoinCounter
+===========
+
+CoinCounter test project
