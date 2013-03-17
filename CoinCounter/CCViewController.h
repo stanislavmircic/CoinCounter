@@ -2,7 +2,7 @@
 //  CCViewController.h
 //  CoinCounter
 //
-//  Created by Nikola Mircic on 2/25/13.
+//  Created by Test user on 2/25/13.
 //  Copyright (c) 2013 UNIT. All rights reserved.
 //
 
